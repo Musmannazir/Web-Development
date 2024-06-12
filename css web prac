@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div{
+    background-color: yellow;
+    color: red;
+}
+.usman{
+    background-color: blue;
+    color: white;
+}
+</style>
+<body>
+    
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia dignissimos veritatis magnam qui quidem eius, itaque at magni sit exercitationem assumenda debitis rerum a aspernatur quo minus corporis optio dolore vero dolorem beatae ipsum deleniti? Nobis voluptatem veniam sint iste.
+         <p>hi 1 line</p>
+         <p>hi 2 line</p>
+    </div>
+    <div class="usman">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum est adipisci quo ipsa tempore nihil vitae beatae magni. Cumque corrupti incidunt magnam velit quas necessitatibus odit consectetur saepe temporibus minus?
+        <p>hi 3 line</p>
+        <p>hi 4 line</p>
+    </div>
+</body>
+</html>
